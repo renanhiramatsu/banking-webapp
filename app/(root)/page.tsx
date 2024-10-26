@@ -20,8 +20,6 @@ const Home = () => {
           accounts={[]}
           totalBanks={1}
           totalCurrentBalance={1250.35}
-          
-          
           />
 
         </header>
